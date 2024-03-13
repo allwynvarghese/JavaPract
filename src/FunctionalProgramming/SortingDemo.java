@@ -3,7 +3,7 @@ package FunctionalProgramming;
 import java.util.Comparator;
 import java.util.List;
 
-public class sortingDemo {
+public class SortingDemo {
 
     public static void main(String[] args) {
 
